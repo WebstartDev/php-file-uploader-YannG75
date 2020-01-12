@@ -70,12 +70,3 @@ class Upload
     }
 
 }
-
-
-//$content = [];
-//$files = glob('../storage/items/*'); // get all file names
-//foreach($files as $file){ // iterate files
-//    if(is_file($file))
-//        array_push($content,file_get_contents($file)); // delete file
-//}
-//return $content;
